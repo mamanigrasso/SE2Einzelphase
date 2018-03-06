@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Palindrome SE2</string>
+    <string name="info_null_or_empty">String cannot be null or empty!</string>
+    <string name="info_not_long_enough">String must be longer than %d characters!</string>
+    <string name="info_is_palindrome">String is a palindrome.</string>
+    <string name="info_is_not_palindrome">String is not a palindrome.</string>
+</resources>
